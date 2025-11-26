@@ -2,7 +2,8 @@
 <h3 align="center">A passionate software engineer from NYC</h3>
 
 <h4 align="center">I’m a passionate software engineer with experience in full stack development, databases, and modern frameworks. I enjoy solving challenging problems, working in Agile teams, and continuously learning new technologies. My goal is to grow as a software engineer by contributing to impactful projects that make a real difference in people’s lives. </h4> 
-- **Currently working on projects to expand my portfolio while helping me learn new technologies, frameworks, and skills.**
+
+- Currently working on projects to expand my portfolio while helping me learn new technologies, frameworks, and skills.
 
 - 🖥️ Check out my portfolio website [https://candrewc.github.io/](https://candrewc.github.io/)
 
